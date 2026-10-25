@@ -20,6 +20,6 @@ An Information Security student in Vietnam, aiming for a **SOC / blue team inter
 ## 😄 Open to Opportunities
 I'm seeking SOC / Blue Team internship opportunities, technical collaboration, and constructive feedback on my projects.
 
-- How to reach me: [...](https://www.linkedin.com/in/phuc-hong-b2a2b0343/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/phuc-hong-b2a2b0343/)
 - Pronouns: she/her
 
