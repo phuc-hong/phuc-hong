@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nguyen Hong Phuc 👋
 
-<!--
-**phuc-hong/phuc-hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Information Security student in Vietnam, aiming for a **SOC / blue team internship**.
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
+- Planning and building a SOC home lab
+- Learning Linux, networking, MITRE ATT&CK
+- Documenting hands-on labs and lessons learned through technical write-ups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Areas of Interest
+- Incident Response
+- Digital Forensics
+- Detection Engineering
+
+## 🚧 Coming soon
+- `homelab-ad-infrastructure`
+- `soc-home-lab`
+- `detection-rules`
+
+## 😄 Open to Opportunities
+I'm seeking SOC / Blue Team internship opportunities, technical collaboration, and constructive feedback on my projects.
+
+- How to reach me: [...](https://www.linkedin.com/in/phuc-hong-b2a2b0343/)
+- Pronouns: she/her
+
